@@ -28,3 +28,5 @@ This *CRM Application* is designed to help institutions manage the services they
 - *Notification System*: Send notifications to customers for service updates.
 - *Role-Based Access Control*: Secure data with administrator and user roles.
 - *Search and Filter*: Quickly find customer or service information
+  ## Demo video link
+  https://drive.google.com/file/d/1YxY7GuQY-97JiF44UO7mOKqk3UNUJYEY/view?usp=drivesdk
